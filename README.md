@@ -1,3 +1,4 @@
+This project is adapted from [Parth971/School-Management-System](https://github.com/Parth971/School-Management-System)
 
 # School-Management-System
 
